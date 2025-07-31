@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/umb.jpg" alt="UMB" style="float: left; margin-right: 20px; width: 200px; border-radius: 10px;">
+
 I am currently working as a Research Associate at Department of Pharmaceutical Sciences University of Maryland Baltimore, USA.
 I am a Computational Chemist by training and have experience of working on a wide range of molecular systems using a wide range of computational methods. 
 Here at UMB, I work towards the development of CHARMM Molecular Force-field and free energy estimation methods which are essential tools for modelling the energetics and kinetics of biomolecular systems and their interactions with small molecules. 
