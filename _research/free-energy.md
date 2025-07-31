@@ -1,5 +1,6 @@
 ---
 title: "Free Energy Estimation"
+order: 3
 collection: research
 permalink: /research/free-energy
 date: 03-06-2023

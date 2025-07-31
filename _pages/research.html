@@ -7,9 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
-  {% include archive-single.html %}
+{% assign sorted = site.research | sort: "order" %}
+{% for item in sorted %}
+  <div class="research-entry">
+    <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+    <p>{{ item.description }}</p>
+  </div>
 {% endfor %}
-
-
-
