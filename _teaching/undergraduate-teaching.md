@@ -8,7 +8,5 @@ date: 2015-01-01
 location: "Kanpur, UP, USA"
 ---
 
-Basics of Physical Chemistry 
-
-Chemical Science
+Basics of Physical Chemistry; Chemical Science
 

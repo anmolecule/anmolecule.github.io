@@ -8,7 +8,5 @@ date: 2022-01-01
 location: "Baltimore, Maryland, USA"
 ---
 
-Advanced Quantum Chemistry 
-
-Chemical Databases
+Advanced Quantum Chemistry; Chemical Databases
 
