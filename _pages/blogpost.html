@@ -1,0 +1,19 @@
+---
+layout: archive
+title: ""
+permalink: /posts/
+author_profile: true
+---
+
+{% include base_path %}
+
+<div class="wordwrap">You can also find my blogs on <a href="{{site.author.medium}}">my Medium profile</a>.</div>
+
+
+{% assign sorted = site.posts | sort: "order" %}
+{% for item in sorted %}
+  <div class="posts-entry">
+    <h3><a href="{{ item.url }}">{{ item.title }}</a></h3>
+    <p>{{ item.description }}</p>
+  </div>
+{% endfor %}
