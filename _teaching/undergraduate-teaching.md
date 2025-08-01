@@ -9,5 +9,6 @@ location: "Kanpur, UP, USA"
 ---
 
 Basics of Physical Chemistry 
+
 Chemical Science
 
