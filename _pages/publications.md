@@ -100,3 +100,5 @@ Diethelm-Varela B., **Kumar A.**, Lynch C., Imler G., Deschamps J., Xia M., MacK
 *Tetrahedron* **2021**, *79*, 131886.  
 [https://doi.org/10.1016/j.tet.2020.131886](https://doi.org/10.1016/j.tet.2020.131886)
 
+{% endcapture %}
+{{ publications_md | markdownify }}
