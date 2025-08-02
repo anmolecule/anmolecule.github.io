@@ -1,17 +1,17 @@
 ---
-layout: cv-layout
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-
-{% capture publications_md %}
+{% include base_path %}
 
 ## Publications
 
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/).
+You can find all my articles on my [Google Scholar profile](https://scholar.google.com/).
 
 ### Selected Articles
 
@@ -98,5 +98,3 @@ Diethelm-Varela B., **Kumar A.**, Lynch C., Imler G., Deschamps J., Xia M., MacK
 *Tetrahedron* **2021**, *79*, 131886.  
 [https://doi.org/10.1016/j.tet.2020.131886](https://doi.org/10.1016/j.tet.2020.131886)
 
-{% endcapture %}
-{{ publications_md | markdownify }}
