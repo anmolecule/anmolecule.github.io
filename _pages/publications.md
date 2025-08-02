@@ -5,30 +5,92 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
 ## Publications
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/).
 
 ### Selected Articles
 
-1. **Understanding Lone Pairs in Molecular Electrostatics**  
-   *Anmol Kumar*, Shridhar R. Gadre  
-   *J. Am. Chem. Soc.*, **2023**, *145*(12), 5678–5689.  
-   [https://doi.org/10.1021/jacs.3c04567](https://doi.org/10.1021/jacs.3c04567)  
+#### Topographical Analysis of Electron Density and Electrostatic Potential
 
-2. **Electric Field Based Partitioning of Molecular Electron Density**  
-   *Anmol Kumar*, Shridhar R. Gadre  
-   *J. Chem. Theory Comput.*, **2022**, *18*(6), 3456–3467.  
-   [https://doi.org/10.1021/acs.jctc.2c00678](https://doi.org/10.1021/acs.jctc.2c00678)  
+**Exploring the Gradient Paths and Zero Flux Surfaces of Molecular Electrostatic Potential**  
+**Kumar A.**, Gadre S.R.,  
+*J. Chem. Theory Comput.* **2016**, *12*, 1705–1713.  
+[https://doi.org/10.1021/acs.jctc.6b00073](https://doi.org/10.1021/acs.jctc.6b00073)
 
-3. **QM/MM Free Energy Calculations with Drude Polarizable Force Field**  
-   *Anmol Kumar*, Alexander D. MacKerell Jr.  
-   *J. Chem. Inf. Model.*, **2024**, *64*(4), 1234–1245.  
-   [https://doi.org/10.1021/acs.jcim.4c00123](https://doi.org/10.1021/acs.jcim.4c00123)  
+**Lone Pairs: An Electrostatic Viewpoint**  
+**Kumar A.**, Gadre S.R., Mohan N., Suresh C.H.,  
+*J. Phys. Chem. A* **2014**, *118*, 526–532.  
+[https://doi.org/10.1021/jp4117003](https://doi.org/10.1021/jp4117003)
+
+**Molecular Electrostatics for Probing Lone Pair–π Interactions**  
+Mohan N., Suresh C.H., **Kumar A.**, Gadre S.R.,  
+*Phys. Chem. Chem. Phys.* **2013**, *15*, 18401–18409.  
+[https://doi.org/10.1039/C3CP53379D](https://doi.org/10.1039/C3CP53379D)
+
+---
+
+#### Development of DAMQT Package for Topographical Analysis
+
+**DAMQT 3: Advanced Suite for the Analysis of Molecular Density and Related Properties in Large Systems**  
+**Kumar A.**, Lopez R., Martinez F., Ramírez G., Ema I., Zorrilla D., Yeole S.D., Gadre S.R.,  
+*Comput. Phys. Commun.* **2022**, *279*, 108460.  
+[https://doi.org/10.1016/j.cpc.2022.108460](https://doi.org/10.1016/j.cpc.2022.108460)
+
+**DAMQT 2.1.0: A New Version of the DAMQT Package Enabled with the Topographical Analysis of Electron Density and Electrostatic Potential in Molecules**  
+**Kumar A.**, Yeole S.D., Gadre S.R., López R., Rico J.F., Ramírez G., Ema I., Zorrilla D.,  
+*J. Comput. Chem.* **2015**, *36*, 2350–2359.  
+[https://doi.org/10.1002/jcc.24212](https://doi.org/10.1002/jcc.24212)
+
+---
+
+#### Generalization of CHARMM Molecular Force-Field to Small Molecules
+
+**Increasing the Accuracy and Robustness of the CHARMM General Force Field with an Expanded Training Set**  
+Croitoru A., **Kumar A.**, Lambry J.-C., Lee J., Sharif S., Yu W., MacKerell A.D., Aleksandrov A.,  
+*J. Chem. Theory Comput.* **2025**, *21*(6), 3044–3065.  
+[https://doi.org/10.1021/acs.jctc.5c00046](https://doi.org/10.1021/acs.jctc.5c00046)
+
+**FFParam-v2.0: A Comprehensive Tool for CHARMM Additive and Drude Polarizable Force-Field Parameter Optimization and Validation**  
+**Kumar A.**, MacKerell A.D.,  
+*J. Phys. Chem. B* **2024**, *128*(18), 4385–4395.  
+[https://doi.org/10.1021/acs.jpcb.4c01314](https://doi.org/10.1021/acs.jpcb.4c01314)
+
+**FFParam: Standalone Package for CHARMM Additive and Drude Polarizable Force Field Parametrization of Small Molecules**  
+**Kumar A.**, Yoluk O., MacKerell A.D.,  
+*J. Comput. Chem.* **2020**, *41*(9), 958–970.  
+[https://doi.org/10.1002/jcc.26138](https://doi.org/10.1002/jcc.26138)
+
+---
+
+#### Development of Drude Polarizable Force Field for Small Molecules
+
+**Drude Polarizable Lipid Force Field with Explicit Treatment of Long-Range Dispersion: Parametrization and Validation for Saturated and Mono-unsaturated Zwitterionic Lipids**  
+Yu Y., Venable R., Thirman J., Chatterjee P., **Kumar A.**, Pastor R., Roux B., MacKerell A.D., Klauda J.,  
+*J. Chem. Theory Comput.* **2023**, *19*(9), 2590–2605.  
+[https://doi.org/10.1021/acs.jctc.3c00203](https://doi.org/10.1021/acs.jctc.3c00203)
+
+**Deep Neural Network Model to Predict the Electrostatic Parameters in the Polarizable Classical Drude Oscillator Force Field**  
+**Kumar A.**, Pandey P., Chatterjee P., MacKerell A.D.,  
+*J. Chem. Theory Comput.* **2022**, *18*(3), 1711–1725.  
+[https://doi.org/10.1021/acs.jctc.2c00115](https://doi.org/10.1021/acs.jctc.2c00115)
+
+**Harnessing Deep Learning for Optimization of Lennard-Jones Parameters for the Polarizable Classical Drude Oscillator Force Field**  
+Chatterjee P., Sengul M., **Kumar A.**, MacKerell A.D.,  
+*J. Chem. Theory Comput.* **2022**, *18*(4), 2388–2407.  
+[https://doi.org/10.1021/acs.jctc.2c00115](https://doi.org/10.1021/acs.jctc.2c00115)
+
+---
+
+#### Free Energy Estimation Methods
+
+**Modeling Ligand Binding Site Water Networks with Site-Identification by Ligand Competitive Saturation: Impact on Ligand Binding Orientations and Relative Binding Affinities**  
+**Kumar A.**, Goel H., Yu W., Zhao M., MacKerell A.D.,  
+*J. Chem. Theory Comput.* **2024**, *20*(24), 11032–11048.  
+[https://doi.org/10.1021/acs.jctc.4c01165](https://doi.org/10.1021/acs.jctc.4c01165)
+
+**Stereoisomerization of Human Constitutive Androstane Receptor Agonist CITCO**  
+Diethelm-Varela B., **Kumar A.**, Lynch C., Imler G., Deschamps J., Xia M., MacKerell A.D., Xue F.,  
+*Tetrahedron* **2021**, *79*, 131886.  
+[https://doi.org/10.1016/j.tet.2020.131886](https://doi.org/10.1016/j.tet.2020.131886)
 
