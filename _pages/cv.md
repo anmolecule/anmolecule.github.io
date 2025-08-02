@@ -9,12 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[📄 View CV Online](/files/CV_Anmol_Kumar.pdf){:target="_blank" rel="noopener"}  
-[⬇️ Download CV (PDF)](/files/CV_Anmol_Kumar.pdf){:download rel="noopener"}
+[📄 View or Download CV Online](/files/CV_Anmol_Kumar.pdf){:target="_blank" rel="noopener"}  
 
 ## Objective
 
-As a skilled theoretical and computational chemist with expertise in quantum and empirical methods, computer programming, and machine learning, I am committed to advancing the field of chemistry, with a focus on solving structural biology and biochemical problems. I am seeking a faculty position to educate future scientists while making significant contributions to the body of knowledge in chemistry.
+As a skilled theoretical and computational chemist with expertise in quantum and empirical methods, computer programming, and machine learning, I am committed to advancing the field of chemistry, with a focus on solving structural biology and biochemical problems. 
 
 ---
 
@@ -40,22 +39,32 @@ Grade: 74% | Rank: 2nd
 
 ## Work Experience
 
-**Research Associate Faculty**  
-*University of Maryland, Baltimore, USA*  
+### **Research Associate Faculty**  
+**University of Maryland, Baltimore, USA**  
 **Nov 2024 – Present**  
-- Research on force field development and drug design methods  
+**Area of Research:** Force field development and computational drug design  
+**Supervisor:** Prof. Alexander D. MacKerell Jr.  
+- Developing advanced computational models for drug discovery and biomolecular simulations  
 
-**Postdoctoral Fellow**  
-*University of Maryland, Baltimore, USA*  
+---
+
+### **Postdoctoral Fellow**  
+**University of Maryland, Baltimore, USA**  
 **Sep 2022 – Oct 2024**  
-- Drude polarizable force field and SILCS-WATER development  
-- Supervisor: Prof. Alexander D. MacKerell Jr.
+**Area of Research:** Drude polarizable force field, Free Energy Estimation  
+**Supervisor:** Prof. Alexander D. MacKerell Jr.  
+- Contributed to the development of polarizable force fields for small molecules
+- Developed SILCS-WATER method for ligand binding prediction in presence of water  
 
-**Postdoctoral Research Scientist**  
-*University of Maryland, Baltimore, USA*  
+---
+
+### **Postdoctoral Research Scientist**  
+**University of Maryland, Baltimore, USA**  
 **Aug 2017 – Aug 2022**  
-- QM/MM MD methods and force field development  
-- Supervisor: Prof. Alexander D. MacKerell Jr.
+**Area of Research:** QM/MM molecular dynamics and classical force field optimization  
+**Supervisor:** Prof. Alexander D. MacKerell Jr.  
+- Developed hybrid quantum-classical (QM/MM) MD simulation techniques  
+- Developed optimization methods for CHARMM force field parameters 
 
 ---
 
