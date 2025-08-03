@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: 'One Liners'
 description: "Some philosphically deep statements that come to me during random walks and talks."
 order: 1
