@@ -39,9 +39,14 @@ Grade: 74% | Rank: 2nd
 
 ## Work Experience
 
+### **Ramanujan Faculty**  
+**IIT Dharwad, Karnataka, India**  
+**Dec 2025 **  
+**Area of Research:** Method development, AI/ML  
+
 ### **Research Associate Faculty**  
 **University of Maryland, Baltimore, USA**  
-**Nov 2024 – Present**  
+**Nov 2024 – Dec 2025**  
 **Area of Research:** Force field development and computational drug design  
 **Supervisor:** Prof. Alexander D. MacKerell Jr.  
 - Developing advanced computational models for drug discovery and biomolecular simulations  
