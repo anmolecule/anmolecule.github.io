@@ -9,9 +9,8 @@ redirect_from:
 
 <img src="/images/umb.jpg" alt="UMB" style="float: left; margin-right: 20px; width: 200px; border-radius: 10px;">
 
-I am currently working as a Research Associate at Department of Pharmaceutical Sciences University of Maryland Baltimore, USA.
-I am a Computational Chemist by training and have experience of working on a wide range of molecular systems using a wide range of computational methods. 
-Here at UMB, I work towards the development of CHARMM Molecular Force-field and free energy estimation methods which are essential tools for modelling the energetics and kinetics of biomolecular systems and their interactions with small molecules. 
+I am Ramanujan Faculty at Department of Chemistry, IIT Dharwad and a computational chemist by training. My research focuses on the development of computational methods to address problems in biochemistry, with particular emphasis on emerging drug discovery and design technologies. I am broadly interested in understanding fundamental biochemical phenomena at the molecular level and in translating theoretical and computational insights into practical tools for biomedical applications. 
+Previously, I worked as Research Associate Faculty at Department of Pharmaceutical Sciences University of Maryland Baltimore, USA. My research focus at UMB was towards the development of Drude General Force-field and free energy estimation methods which are essential tools for modelling the energetics and kinetics of biomolecular systems and their interactions with small molecules. 
 In the process, we have developed computer programs that allows for optimization and generalization of CHARMM additive and Drude Polarizable force-field parameters, namely [FFParam](https://ffparam.silcsbio.com) and [pyDGenFF](https://github.com/mackerell-lab). 
 We had a breakthrough moment in free energy calculations, where we developed a method for estimation of free energy of drug-like molecules while accounting for water in the active site of the target protein. 
 Our method, [SILCS-WATER](https://github.com/mackerell-lab) is much faster than Free-Energy-Perturbation method which is considered GOLD Standard for free energy estimation.
